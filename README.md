@@ -1,1 +1,1 @@
-# secure-copy-protocol-openssl
+# Secure Copy Protocol using OpenSSL
